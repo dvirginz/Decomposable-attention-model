@@ -1,0 +1,10 @@
+9218	1:yy 2:ppp 3:rrrr 4:pppp 5:oo 6:_ 7:rrr	throw out one unit of second beaker	1:yy 2:pp 3:rrrr 4:pppp 5:oo 6:_ 7:rrr
+9218	1:yy 2:pp 3:rrrr 4:pppp 5:oo 6:_ 7:rrr	throw out one unit of fourth beaker	1:yy 2:pp 3:rrrr 4:ppp 5:oo 6:_ 7:rrr
+9218	1:yy 2:pp 3:rrrr 4:ppp 5:oo 6:_ 7:rrr	throw out third beaker	1:yy 2:pp 3:_ 4:ppp 5:oo 6:_ 7:rrr
+9219	1:yy 2:ggg 3:yyy 4:_ 5:pppp 6:_ 7:_	throw out green one	1:yy 2:_ 3:yyy 4:_ 5:pppp 6:_ 7:_
+9219	1:yy 2:_ 3:yyy 4:_ 5:pppp 6:_ 7:_	throw out third one	1:yy 2:_ 3:_ 4:_ 5:pppp 6:_ 7:_
+9219	1:yy 2:_ 3:_ 4:_ 5:pppp 6:_ 7:_	throw out one yellow unit	1:y 2:_ 3:_ 4:_ 5:pppp 6:_ 7:_
+9220	1:yyy 2:rrr 3:_ 4:g 5:_ 6:_ 7:oo	throw out two units of red	1:yyy 2:r 3:_ 4:g 5:_ 6:_ 7:oo
+9220	1:yyy 2:r 3:_ 4:g 5:_ 6:_ 7:oo	throw out last red	1:yyy 2:_ 3:_ 4:g 5:_ 6:_ 7:oo
+9220	1:yyy 2:_ 3:_ 4:g 5:_ 6:_ 7:oo	pour orange beaker into green one	1:yyy 2:_ 3:_ 4:goo 5:_ 6:_ 7:_
+9221	1:_ 2:pppp 3:_ 4:g 5:_ 6:ppp 7:_	throw out one unit of sixth beaker	1:_ 2:pppp 3:_ 4:g 5:_ 6:pp 7:_
